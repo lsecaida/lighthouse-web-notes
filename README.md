@@ -1,1 +1,0 @@
-#[Luis Secaida]'s Notes
